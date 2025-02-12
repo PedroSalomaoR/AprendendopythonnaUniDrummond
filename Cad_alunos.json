@@ -1,0 +1,26 @@
+[
+    {
+     "nome": "pedro",
+     "matricula": "1",
+     "mensalidade": 1250.0
+    },
+ 
+    {
+     "nome": "diogo",
+     "matricula": "2",
+     "mensalidade": 1255.0
+    }, 
+ 
+    {
+     "nome": "allan",
+     "matricula": "3",
+     "mensalidade": 12345.0
+    }, 
+ 
+    {
+     "nome": "nathan",
+     "matricula": "24",
+     "mensalidade": 24000.0
+    }
+
+]
